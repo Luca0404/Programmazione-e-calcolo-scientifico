@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/test_sorts.dir/link.d CMakeFiles/test_sorts.dir/codice_esercitazione_4.cpp.o CMakeFiles/test_sorts.dir/timecounter.cpp.o -o test_sorts

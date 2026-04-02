@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione4/build/CMakeFiles/test_sorts.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione4/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione4/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione4/build/CMakeFiles/rebuild_cache.dir
