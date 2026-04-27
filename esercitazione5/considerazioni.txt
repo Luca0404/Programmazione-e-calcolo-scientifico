@@ -1,0 +1,5 @@
+L'algoritmo quadratico più efficiente è l'algoritmo insertionsort, mentre l'algoritmo logaritmico più efficiente è il quicksort. 
+Per dimensioni grandi di vettori, conviene utilizzare un algoritmo logaritmico, poiché ha una crescita più lenta. 
+Tuttavia, per dimensioni piccole, conviene utilizzare un algoritmo quadratico, come mostrato calcolando il valore di soglia. 
+Nell'algoritmo quicksort_nuovo vengono utilizzati i due algoritmi a seconda del valore di soglia trovato, ottimizzando il tempo di esecuzione. 
+Infine, std::sort risulta essere molto efficiente. 

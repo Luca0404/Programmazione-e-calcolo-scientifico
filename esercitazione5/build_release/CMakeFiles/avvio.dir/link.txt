@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/avvio.dir/link.d CMakeFiles/avvio.dir/codice_esercitazione_5.cpp.o CMakeFiles/avvio.dir/timecounter.cpp.o -o avvio
