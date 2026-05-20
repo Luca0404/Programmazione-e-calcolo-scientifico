@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/avvio.dir/link.d CMakeFiles/avvio.dir/codice_esercitazione_10.cpp.o -o avvio
