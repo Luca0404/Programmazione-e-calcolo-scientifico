@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/testo.dir/link.d CMakeFiles/testo.dir/codice_esercitazione_11.cpp.o -o testo
